@@ -77,9 +77,7 @@ A **machine learning model** that predicts diabetes risk with **85% accuracy**. 
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MajdIssa34&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MajdIssa34&layout=compact&theme=radical)  
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=MajdIssa34&theme=react-dark)
 
 ---
 
